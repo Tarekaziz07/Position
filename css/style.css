@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo 2', cursive;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+/* header */
+header{
+    background: url(../img/hero-bg.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    float: left;
+}
+.logo-part{
+
+width: 50%;
+
+float: left;
+
+position: relative;
+
+top: 15px;
+}
+.logo-part a{
+
+}
+.logo-part a img{
+
+width: 17%;
+}
+.menu-part{
+    width: 50%;
+    float: left;
+    font-size: 17px;
+    position: relative;
+    left: 279px;
+    top: 12px;
+}
+.menu-part nav{
+
+}
+.menu-part nav ul{
+
+font-weight: 500;
+}
+.menu-part nav ul li{
+
+display: inline-block;
+
+list-style: none;
+
+padding: 24px;
+}
+.menu-part nav ul li a{
+    text-decoration: none;
+
+    color: white;
+}
+/* hero section */
+#hero{
+    background: url(../img/hero-bg.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    float: left;
+}
+.content{
+margin-top: 150px;
+    
+width: 100%;
+    
+float: left;
+    
+text-align: center;
+}
+.writing-part{
+    color: white;
+}
+.writing-part h1{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 45px;
+}
+.writing-part p{
+
+font-size: 12px;
+
+padding: 17px;
+}
+.writing-part a{
+
+}
+.writing-part a button{
+
+margin: 0px 10px;
+
+padding: 2px 15px;
+
+border-radius: 5px;
+
+background: transparent;
+
+border: solid 1px;
+
+border-color: white;
+
+color: white;
+}
+.b-1{
+}
+.image-part{
+
+}
+.image-part img{
+    padding: 60px;
+}
+#hero1{
+    background: url(../img/hero1-bg.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    padding: 5%;
+}
+.image1-part{
+
+width: 40%;
+
+float: left;
+}
+.image1-part img{
+
+margin-left: 120px;
+}
+.writing1-part{
+
+width: 60%;
+
+float: left;
+
+text-align: center;
+}
+.writing1-1{
+
+width: 30%;
+
+float: left;
+}
+.content1{
+
+padding: 15px;
+
+box-shadow: 0px 2px 3px #bebcbc;
+
+border-radius: 5px;
+
+position: relative;
+}
+.content1 img{
+
+width: 20%;
+}
+.content1 h4{
+
+padding: 20px;
+}
+.content1 p{
+
+}
+.content2{
+    padding: 15px;
+    box-shadow: 0px 1px 3px #bebcbc;
+    border-radius: 5px;
+    position: relative;
+    top: 50px;
+    right: 50px;
+}
+.content2 img{
+    width: 20%;
+}
+.content2 h4{
+    
+padding: 20px;
+}
+.content2 p{
+    
+}
+.writing1-2{
+    
+width: 30%;
+    
+float: left;
+}
+.content3{
+    padding: 15px;
+    box-shadow: 0px 2px 3px #bebcbc;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+.content3 img{
+    width: 20%;
+}
+.content3 h4{
+    
+padding: 20px;
+}
+.content3 p{
+    
+}
+.content4{
+    padding: 15px;
+    box-shadow: 0px 1px 3px #bebcbc;
+    border-radius: 5px;
+    position: relative;
+    top: 200px;
+    left: 15px;
+}
+.content4 img{
+    width: 20%;
+}
+.content4 h4{
+    
+padding: 20px;
+}
+.content4 p{
+    
+}
